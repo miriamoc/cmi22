@@ -8,15 +8,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Plastic Pearl
 
 **Web:**   (url github.io)
 
 **Autor:**  Miriam Ortega Campaña
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto busca concienciar sobre la contaminación marina, a través de una mini historia de una sirena y su amigo caballito de mar (tú), tendras que pasar distintos niveles para darte cuenta de la realidad.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Juego
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
