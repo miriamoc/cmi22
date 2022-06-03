@@ -14,11 +14,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Miriam Ortega Campaña
 
-**Resumen** : Este proyecto busca concienciar sobre la contaminación marina, a través de una mini historia de una sirena y su amigo caballito de mar (tú), tendras que pasar distintos niveles para darte cuenta de la realidad.
+**Resumen** : Este proyecto busca concienciar sobre la contaminación marina, a través de una mini historia de una sirena y su amigo caballito de mar (tú). Tendras que superar 6 niveles, para llegar al final, mientras sigues su historia y cómo se da cuenda de los peligros de la basura.
 
 **Estilo/género:**  Juego
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : ![21](https://user-images.githubusercontent.com/106731684/171935990-81197dd0-92c5-4560-9a0b-718b71c9aba3.png)
+
+Es una tortuga marina, siendo atrapada por una bolsa de plástico.
+
+
 
 (insertar imágenes a resolucion de 100px alto)
 
@@ -80,13 +84,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque conciencia sobre los grandes problemas de contaminación, como las islas de plástico, a través de una dinámica de juego entretenida. Así mientras juegas, aprendes un poco más de este enorme problema.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a niñ@s, alrededor de los 8 años. Debido a la dinámica, ilustración, y la temática.
 
 
 
