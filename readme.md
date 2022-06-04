@@ -20,13 +20,10 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Logotipo** : ![21](https://user-images.githubusercontent.com/106731684/171935990-81197dd0-92c5-4560-9a0b-718b71c9aba3.png)
 
-Es una tortuga marina, siendo atrapada por una bolsa de plástico.
+Es una tortuga marina, siendo atrapada por una bolsa de plástico, debido al tema del juego.
 
 
-
-(insertar imágenes a resolucion de 100px alto)
-
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px 
 
 **Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
 
@@ -49,21 +46,19 @@ Es una tortuga marina, siendo atrapada por una bolsa de plástico.
 
 ### 2.1 Storyboard: 
 
+![Storyboard1](https://user-images.githubusercontent.com/106731684/172019940-69e98ee7-f7a9-4fb2-921a-2560c3db84df.png)
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+![Storyboard2](https://user-images.githubusercontent.com/106731684/172019945-0ea44f80-7a6f-412c-829b-8fa7398716a5.png)
+
+
+![Storyboard3](https://user-images.githubusercontent.com/106731684/172019948-ed378b2b-dc17-4e31-b5a7-10ed450ee835.png)
 
 
 
 ### 2.2. Esquema de navegación 
 
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
+![esquema](https://user-images.githubusercontent.com/106731684/172019996-1ae5c339-2ac9-4a15-9ea0-a52c3e39e827.png)
 
 
 
@@ -132,14 +127,14 @@ Este  proyecto es interesante porque conciencia sobre los grandes problemas de c
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica:  Soundtruck H2O, sonidos sin copiright.
+* Imágenes:  dibujos propios
+* Tipografía: Arial
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Photoshop
 
 
 
