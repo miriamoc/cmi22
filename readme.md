@@ -16,7 +16,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resumen** : Este proyecto busca concienciar sobre la contaminación marina, a través de una mini historia de una sirena y su amigo caballito de mar (tú). Tendras que superar 6 niveles, para llegar al final, mientras sigues su historia y cómo se da cuenda de los peligros de la basura.
 
-**Estilo/género:**  Juego
+**Estilo/género:**  Juego/ aventura gráfica
 
 **Logotipo** : 
 
@@ -25,24 +25,28 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 Es una tortuga marina, siendo atrapada por una bolsa de plástico, debido al tema del juego.
 
 
-**Resolución:** 800x600px 
+**Resolución:** 800x600px (reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google Chrome/ Microsoft Edge /móviles ios/móviles android )
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 29.8MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 06/062002
 
 **Medios** (donde se tiene presencia relacionada):
 
 - Github:
-- Twitter
-- Instagram
+
+![caballito lado](https://user-images.githubusercontent.com/106731684/172136606-ef19e1a8-d61d-41b8-acdc-22c6bf130720.png)
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+
+![sirena red](https://user-images.githubusercontent.com/106731684/172136617-46201de2-c6fd-4a23-8157-731fb6e62aab.png)
+
+
+
 
 # 2. Memoria del proyecto 
 
@@ -74,13 +78,14 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- Instagram-s0s2tagram, como inspiración para la historia del juego.
+- La sirenita, para el diseño de algunos personajes y escenarios
+- Compañía de juegos Agame, fijandome en los juegos de vestir, de laberintos, y en general de las dinámicas de juego que puede haber.
 
 
 
 **Motivación de la propuesta** 
-
+A raiz del instagram antes mencionado, me interesó mucho abordar un tema tan importante como lo es la contaminación marina, ya que es un problema enorme que empeora día a día y al que le damos la espalda. 
 Este  proyecto es interesante porque conciencia sobre los grandes problemas de contaminación, como las islas de plástico, a través de una dinámica de juego entretenida. Así mientras juegas, aprendes un poco más de este enorme problema.
 
 
