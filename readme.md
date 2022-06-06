@@ -112,8 +112,7 @@ Utilicé un video editado por mí, de las partes exactas que quería de la pelí
  Para que el usuario sea consciente de lo que trata el juego, y de qué hay que hacer en cada nivel, primero lo introduzco en la historia con unos dialogos de Kiara y haciendolo participe de todo, preguntando su nombre. Al comienzo de cada nivel se explica en qué consiste, e incluso la dinámica de teclado y ratón si es necesario.
 
 - Menús y elementos de navegación (botones)
-
-- etc.
+Despues de la intro inicial aparece el menú principar, que está compuesto por un botón para volver a la intro, uno para ir a la galería de imágenes(donde aparecen botones para pasar de imágenes y un botón para ir directo al menú), otro para ir a créditos(donde vuelves al menú con un boton), y el boton de jugar. Una vez comienza el juego, primero hay una explicación, donde metes tu nombre, y van a la pantalla de niveles. En un inicio tu personaje podía moverse y meterse directamente en cada nivel, con colisiones, además de directamente pulsando el boton del nivel, sin embargo, terminé dejando solo la última opción, pues las colisiones me daban fallos, y hacían que algunos niveles dieran saltos. Ya en cada nivel encontramos distintos botones como botones de movimiento, o para coger cosas, además del teclado.
 
 
 
