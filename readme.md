@@ -113,18 +113,25 @@ Utilicé un video editado por mí, de las partes exactas que quería de la pelí
 
 - Menús y elementos de navegación (botones)
 Despues de la intro inicial aparece el menú principar, que está compuesto por un botón para volver a la intro, uno para ir a la galería de imágenes(donde aparecen botones para pasar de imágenes y un botón para ir directo al menú), otro para ir a créditos(donde vuelves al menú con un boton), y el boton de jugar. Una vez comienza el juego, primero hay una explicación, donde metes tu nombre, y van a la pantalla de niveles. En un inicio tu personaje podía moverse y meterse directamente en cada nivel, con colisiones, además de directamente pulsando el boton del nivel, sin embargo, terminé dejando solo la última opción, pues las colisiones me daban fallos, y hacían que algunos niveles dieran saltos. Ya en cada nivel encontramos distintos botones como botones de movimiento, o para coger cosas, además del teclado.
+- Sonidos. 
+Como canciones de fondo encontramos 4, una para la intro, creditos, y el final del juego que es más alegre; una muy parecida para la galería; otra más neutra y con algo de tensión para los niveles, excepto el nivel donde te encuentras con el monstruo(el quiz), donde aparece otro de tensión. Además hay dos sonidos diferentes para depende de qué botones, y algunos efectos de sonido, de burbujas al abrirse la almeja, de acuerto y fallo en el quiz, uno en el cofre y uno de magia cuando vistes a la sirena. Las canciones tienen cada una en la parte superior derecha su correspondiente barra de sonido y el mute.
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Entre los problemas, ya he mencionado el de las colisiones. En un inicio iban en los niveles, y en el nivel 1, finalmente solo lo dejé en el nivel 1 que sí funcionaban correctamente, pero en los niveles daba muchos problemas a todo el juego en general. 
+En la pantalla de los niveles cuando vuelves de un nivel, el caballito de mar no aparece donde tengo indicadas las coordenadas, si no fuera de pantalla y tienes que moverlo para que aparezca.
+Las canciones dan problemas, pues pese a haber pausado y dado al play a conciencia en cada escena a los sonidos correspondientes, al exportarlo no se ha respetado esto y suenan canciones donde no deberían de sonar.
+Al exportarlo cuando comienza tienes que darle tú a la música para que se escuche, no comienza sola a pesar de estar indicado.
+Al exportarlo me aparece que hay imagenes que no se ven, y despues de darle a aceptar me funciona y se ven todas, me pasa lo mismo en la plataforma de github.
+Además en github, el video de Youtube no aparece.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Considero que hay cosas que mejorar en el juego, ya que hay dinámicas que no han quedado exactamente como esperaba, pero estoy bastante orgullosa con todo lo que he hecho, pues le he dedicado mucho tiempo y he intentado abordar practicamente todas las dinámicas que se han propuesto en clase. Si que me gustaría haber incluido la variable del tiempo en algún nivel, que de hecho la tenía y tenía los dibujos, pero debido a una cuestion de tiempo decidí eliminarla porque no funcionaba bien y prefería arreglar factores más importantes para el juego. Me ha gustado la experiencia y de hecho en un futuro me gustaría seguirla, pero si que es cierto que hippani no me ha dejado con muy buen sabor de boca, pues cada vez que metias algo nuevo muchas veces te daba fallo algo completamente distinto, y la exportación da muchos fallos, como que no se vean algunas imágenes.
 
 
 
@@ -140,18 +147,21 @@ Despues de la intro inicial aparece el menú principar, que está compuesto por 
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  Soundtruck H2O, sonidos sin copiright.
-* Imágenes:  dibujos propios
+* Musica:  Background H2O; https://www.youtube.com/watch?v=MsCJ7qDOzXc
+* Sonidos sin copiright.
+* Imágenes: Miriam Ortega Campaña
 * Tipografía: Arial
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
 - Photoshop
+- -Audacity
+- Avidemux
+
+![68747470733a2f2f6c6963656e7365627574746f6e732e6e65742f6c2f62792d6e632d73612f332e302f38387833312e706e67](https://user-images.githubusercontent.com/106731684/172148623-254b2dfe-498f-4ac6-b484-53a03e66b24b.png)
 
 
-
-(imagen de la licencia, copiar y pegar aquí la correcta)
 
 https://creativecommons.org/licenses/?lang=es
 
