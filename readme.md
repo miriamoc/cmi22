@@ -127,6 +127,7 @@ Al exportarlo cuando comienza tienes que darle tú a la música para que se escu
 Al exportarlo me aparece que hay imagenes que no se ven, y despues de darle a aceptar me funciona y se ven todas, me pasa lo mismo en la plataforma de github.
 Además en github, el video de Youtube no aparece.
 
+Como fallo mío, hay un nivel donde por elección propia quería que solo se moviese con el teclado y no con botones (en el laberinto), pero esto es incompatible y juegas desde el movil, pues no tienes teclas. Aunque solo sea un nivel, como mejora lo cambiaría.
 
 
 # 4. Conclusiones 
