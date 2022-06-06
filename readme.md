@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Plastic Pearl
 
-**Web:**   (url github.io)
+**Web:**   miriamoc.github.io
 
 **Autor:**  Miriam Ortega Campaña
 
@@ -18,7 +18,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Juego
 
-**Logotipo** : ![21](https://user-images.githubusercontent.com/106731684/171935990-81197dd0-92c5-4560-9a0b-718b71c9aba3.png)
+**Logotipo** : 
+
+![21](https://user-images.githubusercontent.com/106731684/171935990-81197dd0-92c5-4560-9a0b-718b71c9aba3.png)
 
 Es una tortuga marina, siendo atrapada por una bolsa de plástico, debido al tema del juego.
 
