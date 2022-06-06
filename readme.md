@@ -85,14 +85,14 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 
 **Motivación de la propuesta** 
-A raiz del instagram antes mencionado, me interesó mucho abordar un tema tan importante como lo es la contaminación marina, ya que es un problema enorme que empeora día a día y al que le damos la espalda. 
-Este  proyecto es interesante porque conciencia sobre los grandes problemas de contaminación, como las islas de plástico, a través de una dinámica de juego entretenida. Así mientras juegas, aprendes un poco más de este enorme problema.
+A raiz del instagram antes mencionado, me interesó mucho abordar un tema tan importante como lo es la contaminación marina, ya que es un problema enorme que empeora día a día y al que le damos la espalda. Por ello quería hacer de forma interactiva y dinámica, como lo es un juego, una forma de aprender, dirigida a los niños que son la nueva generación y a la que debemos de concienciar para que no sigan con los mismos errores que la generación actual.
+ Así mientras juegas, aprendes un poco más de este enorme problema, de las islas de plástico, de los problemas que causan para los animales marinos...
 
 
 
 **Publico / audiencia**
 
-- Orientado a niñ@s, alrededor de los 8 años. Debido a la dinámica, ilustración, y la temática.
+- Orientado a niñ@s, alrededor de los 5 años. Debido a la dinámica, ilustración, y la temática.
 
 
 
@@ -102,10 +102,17 @@ Este  proyecto es interesante porque conciencia sobre los grandes problemas de c
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
+- Juego.
+La dinámica de mi juego se basa en 6 minijuegos. Para comenzar el usuario es introducido en el juego, pues se le pregunta por el nombre que desea ponerle a su personaje(el caballito de mar). Después nos encontramos con una pantalla con 6 niveles, los tres primeros son los niveles principales, cada uno tiene una dinámica distinta, laberinto (colisiones, contador), quiz, recolecta(contador). Es imprescindible pasarte estos niveles pues al final de cada uno te dan un dígito, necesarios para el nivel 4, en el que tienes que abrir el cofre con la ropa de Kiara para la fiesta, con los 3 dígitos. Una vez abierto, pasamos al último nivel donde vistes al personaje de Kiara.
+
+- Video.
+Utilicé un video editado por mí, de las partes exactas que quería de la película de La sirenita. Esto debido a que para Kiara(el personaje), hay un monstruo marino el cual imaguna como la mala de esta película, y tiene incluso una camiseta(tirada al mar) de esto, aunque en realidad el verdadero monstruo como se dará cuenta es la basura, por ello el segundo video, el de Youtube, es un video que trata sobre la contaminación y las islas de plástico.
+
+- Instrucciones y ayuda al usuario.
+ Para que el usuario sea consciente de lo que trata el juego, y de qué hay que hacer en cada nivel, primero lo introduzco en la historia con unos dialogos de Kiara y haciendolo participe de todo, preguntando su nombre. Al comienzo de cada nivel se explica en qué consiste, e incluso la dinámica de teclado y ratón si es necesario.
+
 - Menús y elementos de navegación (botones)
+
 - etc.
 
 
